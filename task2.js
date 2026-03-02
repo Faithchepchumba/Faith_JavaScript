@@ -28,10 +28,10 @@ console.log(reversed)
 // calculate the total
 let nums=[2,4,6,8];
 let sum = 0;
-for(let x=0 ;x<nums.legth;x++){
-    sum += nums[x]
+for(let x= 0 ;x<nums.length;x++){
+    sum += nums[x];
 } 
-console.log(sum)
+console.log(sum);
 // loop to count how many odd numbers are in the array
 let values= [3, 7,10, 13, 18,21];
 let odd_nums =0;
